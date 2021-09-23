@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NickBear-star
-- 👀 I’m interested in interest
+- 👀 I’m interested in interesting things
 - 🌱 I’m currently learning to learn
 - 💞️ I’m looking to collaborate on collaboration
-- 📫 How to reach me NickBearStar@gmail.com
+- 📫 How to reach me Nick.Bear.Star@gmail.com
 
 <!---
 NickBear-star/NickBear-star is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
